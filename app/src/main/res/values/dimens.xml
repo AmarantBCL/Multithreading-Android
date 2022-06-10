@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="half_margin">8dp</dimen>
+    <dimen name="text_size">22sp</dimen>
+    <dimen name="basic_margin">16dp</dimen>
+    <dimen name="cut_margin">12dp</dimen>
+    <dimen name="mini_margin">4dp</dimen>
+    <dimen name="big_text_size">48sp</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LargeButtonStyle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+    <style name="SmallButtonStyle">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@color/gray</item>
+    </style>
+    <style name="CounterTextStyle">
+        <item name="android:textSize">@dimen/big_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/texted</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Multithreading</string>
+    <string name="asynctask_activity">ASYNCTASK ACTIVITY</string>
+    <string name="loader_activity">LOADER ACTIVITY</string>
+    <string name="threads_activity">THREADS ACTIVITY</string>
+    <string name="create">Create</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done!</string>
+    <string name="on_loader_reset">onLoaderReset</string>
+    <string name="on_create_loader">onCreateLoader</string>
+    <string name="on_create_task">Create task</string>
+    <string name="on_start_task">Start task</string>
+    <string name="on_pre_execute_task">Pre execute task</string>
+    <string name="on_post_execute_task">Post execute task</string>
+    <string name="on_cancel_task">Cancel task</string>
+</resources>
